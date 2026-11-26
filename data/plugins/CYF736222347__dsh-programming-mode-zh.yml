@@ -1,0 +1,6 @@
+url: https://github.com/CYF736222347/dsh-programming-mode-zh
+name: CYF736222347/dsh-programming-mode-zh
+category: workflow
+description:
+  en: 'Chinese localization of the programming-mode agent preset, packaged standalone: the standard coding agent with a Chinese persona mandating the Superpowers discipline (skills first, brainstorming before building, plans before code, TDD, systematic debugging, verification before completion) plus the always-on Ponytail code-volume ladder; ships the 21 bundled skills unchanged and prepends a language directive to the first-step using-superpowers injection so the model reasons in Chinese. Preset id programming-zh, so it installs alongside ziduup/dsh-programming-mode.'
+  zh: '「编程模式」预设的汉化独立版：标准编码 Agent 换成中文 persona，强制执行 Superpowers 工程纪律（技能优先、先头脑风暴、先计划后编码、TDD、系统化调试、完成前验证），常驻 Ponytail 代码量阶梯；21 个技能原样打包，首步注入 using-superpowers 时追加语言指令，让模型用中文推理与作答。预设 id 为 programming-zh，可与 ziduup/dsh-programming-mode 同时安装。'
